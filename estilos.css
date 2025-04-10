@@ -1,0 +1,113 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+*{
+    margin: 0px;
+    padding:0px;
+}
+
+/* cabecera id prueba
+#cabecera {
+    width: 100%;
+    height: 400px;
+    background-image: url(img/fondo.png);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    background-color: blueviolet;
+    background-attachment:scroll;
+}
+*/
+
+h1 {
+    color: blue;
+    font-size: 30px;
+    font-family: 'roboto-mono', monospace;
+}
+
+/* botonera ej */
+
+.botonera {
+    width: 100%;
+    height: 50px;
+    padding-top: 20px;
+}
+
+
+nav ul {
+    list-style: none;
+    padding-left: 20px;
+}
+
+
+nav ul li {
+    display: inline;
+}
+
+.botonera a {
+    text-decoration: none;
+    color: blueviolet;
+    padding: 10px 20px;
+    border: 1px solid black;
+}
+
+.botonera a:hover {
+    color: white;
+    background-color: rebeccapurple;
+}
+
+.botonera a:active {
+    background-color:violet;
+    color: black;
+}
+
+
+/* etiqueta ul a ejercicio 
+
+
+ul {
+    list-style-type: none;
+    padding-left: 20px;
+}
+
+li{
+    display: inline;
+    width: 20px;
+    height: 20px;
+    background-color: blueviolet;
+    color:white;
+    margin: 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: orange;
+}
+
+a:link {
+    color: white;
+}
+
+a:active {
+    color: blue;
+}
+
+
+
+
+
+/* prueba ejercicio padding margin
+.caja {
+    width: 200px;
+    height: 100px;
+    background-color: blueviolet;
+    padding: 20px;
+    margin: 30px;
+    border-width: 2px;
+    border-style: dashed;
+    border-color: black;
+    box-sizing: border-box;
+}

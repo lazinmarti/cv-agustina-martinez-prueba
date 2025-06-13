@@ -1,6 +1,8 @@
-Trabajo práctico 1 - Computación 3
+Trabajo práctico 3 - Computación 3
 
-Curriculum
+Portfolio
+prototipo en figma
+html5 y css
 
 Editor de código: Visual Studio Code 
 Resolución de pantalla:1366x768
